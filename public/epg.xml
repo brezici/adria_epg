@@ -1,3 +1,2187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="tvarena.hr.01">
+    <display-name>Arena Sport 01</display-name>
+  </channel>
+  <channel id="tvarena.hr.10">
+    <display-name>Arena Sport 10</display-name>
+  </channel>
+  <channel id="tvarena.hr.02">
+    <display-name>Arena Sport 02</display-name>
+  </channel>
+  <channel id="tvarena.hr.03">
+    <display-name>Arena Sport 03</display-name>
+  </channel>
+  <channel id="tvarena.hr.04">
+    <display-name>Arena Sport 04</display-name>
+  </channel>
+  <channel id="tvarena.hr.05">
+    <display-name>Arena Sport 05</display-name>
+  </channel>
+  <channel id="tvarena.hr.06">
+    <display-name>Arena Sport 06</display-name>
+  </channel>
+  <channel id="tvarena.hr.07">
+    <display-name>Arena Sport 07</display-name>
+  </channel>
+  <channel id="tvarena.hr.08">
+    <display-name>Arena Sport 08</display-name>
+  </channel>
+  <channel id="tvarena.hr.09">
+    <display-name>Arena Sport 09</display-name>
+  </channel>
+  <programme start="20260123003000 +0100" stop="20260123013000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PLAYOFF G4</title>
+  </programme>
+  <programme start="20260123033000 +0100" stop="20260123043000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WHEN THE GARDEN WAS EDEN</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">INTER - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ZADAR - CRVENA ZVEZDA</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">FERENCVAROS - PODRAVKA</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">LYON - BREST</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MANCHESTER UNITED - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">TORINO - ROMA</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">REAL SOCIEDAD - BARCELONA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">TALIJANSKA LIGA: - PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PREMIER LEAGUE: - PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ARENA SPECIJAL EP.101</title>
+  </programme>
+  <programme start="20260123213000 +0100" stop="20260123223000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123220000 +0100" stop="20260123230000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">COLORADO - WASHINGTON</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SAŽETAK 09.12</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WILDCARD GAME 1</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">REAL MADRID - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BORAC - SPLIT</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">LOKOMOTIVA - RAPID B</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PSG - LILLE</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BRIGHTON - BOURENMOUTH</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">LAZIO - COMO</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ARENA SPECIJAL EP.101</title>
+  </programme>
+  <programme start="20260123163000 +0100" stop="20260123173000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">KAIRAT - CLUB BRUGGE</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ULTIMATE RUSH S03E12</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MAGAZIN EUROPA LIGE</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">STUDIO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">INTER - ARSENAL</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">STUDIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">TOTTENHAM - BORUSSIA D</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WILDCARD GAME 2</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BODO/GLIMT - JUVENTUS</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">CLUJ - DUBAI</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">CSM BUCUREST - KRIM</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MONACO - LORIENT</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">CHELSEA - BRENTFORD</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">CAGLIARI - JUVENTUS</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">LIGUE 1 SHOW</title>
+  </programme>
+  <programme start="20260123163000 +0100" stop="20260123173000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SAŽETAK 20.01.2026.</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">INTER - ARSENAL</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">STUDIO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MARSEILLE - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">STUDIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ATALANTA - ATHLETIC BILBAO</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WILDCARD GAME 3</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">GALATASARAY - ATLETICO MADRID</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">CEDEVITA - BUDUĆNOST</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BREST - IKAST</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">LENS - AUXERRE</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">NOTTINGHAM - ARSENAL</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MILAN - LECCE</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 1.DIO</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SAŽETAK 21.01.2026.</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SPORT BEZ GRANICA EP.44</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.45</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">STUDIO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">DINAMO - FCSB</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">STUDIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MALMO - CRVENA ZVEZDA</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WILDCARD GAME 4</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">VILLARREAL - AJAX</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">IGOKEA - STUDENTSKI CENTAR</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">GYOR - SCHAEFFLER</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ANGERS - MARSEILLE</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">TOTTENHAM - WEST HAM</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">UDINESE - INTER</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SAŽETAK 21.01.2026.</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ZADAR - CEDEVITA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">HERMANNSTADT - DINAMO B</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">LEVANTE - ELCHE</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SIDELINE</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">INDEPENDIENTE - ESTUDIANTES</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WILDCARD GAME 5</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SPORTING - PSG</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ZADAR - CEDEVITA</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SAŽETAK 21.01.2026.</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MI ŽIVIMO ZA KOŠARKU EP.66</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">AUXERRE - PSG</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">PL STORIES EP. 172</title>
+  </programme>
+  <programme start="20260123123000 +0100" stop="20260123133000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">NAJAVA PREMIER LEAGUE</title>
+  </programme>
+  <programme start="20260123133000 +0100" stop="20260123143000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WEST HAM - SUNDERLAND</title>
+  </programme>
+  <programme start="20260123153000 +0100" stop="20260123163000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">VAN KADRA EP.22</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MANCHESTER CITY - WOLVES</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BOURNEMOUTH - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123203000 +0100" stop="20260123213000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SPORT BEZ GRANICA EP.44</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">VILLAREAL - REAL MADRID</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">FULHAM - BRIGHTON</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SAŽETAK 20.01</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">WILDCARD GAME 6</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BAYERN - UNION SG</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BUDUĆNOST - BOSNA</title>
+  </programme>
+  <programme start="20260123083000 +0100" stop="20260123093000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">EXPLORERS 16 NORTH OF KNOWN</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MARSEILLE - LENS</title>
+  </programme>
+  <programme start="20260123123000 +0100" stop="20260123133000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">SASSUOLO - CREMONESE</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ARENA SPECIJAL EP.101</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">NEWCASTLE - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.45</title>
+  </programme>
+  <programme start="20260123173000 +0100" stop="20260123183000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ARSENAL - MANCHESTER UNITED</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">MI ŽIVIMO ZA NOGOMET EP.103</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ZVIŽDALJKA EP.14</title>
+  </programme>
+  <programme start="20260123204500 +0100" stop="20260123214500 +0100" channel="tvarena.hr.01">
+    <title lang="hr">ROMA - MILAN</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.01">
+    <title lang="hr">BUDUĆNOST - METZ</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">U CLUJ - UNIREA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">UNIV. CRAIOVA - BOTOSANI</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123133000 +0100" stop="20260123143000 +0100" channel="tvarena.hr.10">
+    <title lang="hr">PETROLUL - FARUL</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">EXPLORERS 11 VOYAGE OF THE FINNMAN</title>
+  </programme>
+  <programme start="20260123013000 +0100" stop="20260123023000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">LOKOMOTIVA - RAPID B</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FRANCUSKA RIVIJERA M I Ž</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FINALE Ž</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">LULEA - ILVES</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G1</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">DOHA</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PLAYOFF G2</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BOCA JUNIORS - RIVER PLATE</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">IGOKEA - STUDENTSKI CENTAR</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BORAC - SPLIT</title>
+  </programme>
+  <programme start="20260123220000 +0100" stop="20260123230000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ULTIMATE RUSH S03E11</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">LAZIO - COMO</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">CSM BUCUREST - KRIM</title>
+  </programme>
+  <programme start="20260123023000 +0100" stop="20260123033000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SPORT BEZ GRANICA EP.38</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WOLLONGONG Ž</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">UTAKMICA ZA 3.MJESTO ž</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">LUKKO - ZUG</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G2</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">LAUSANNE</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WILDCARD GAME 1</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ESTUDIANTES - PLATENSE</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PL STORIES EP. 172</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BODO GLIMT - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">REAL MADRID - MONACO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FROLUNDA - BRYNAS</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">GYOR - SCHAEFFLER</title>
+  </programme>
+  <programme start="20260123023000 +0100" stop="20260123033000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SPORT BEZ GRANICA EP.39</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WOLLONGONG M</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">UTAKMICA ZA 3. MJESTO</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BRYNAS - FROLUNDA</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G6</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BRUSSELS</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PLAYOFF GAME 2</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">RACING - DEFENSA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">MI ŽIVIMO ZA KOŠARKU EP.66</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.02">
+    <title lang="hr">GALATASARAY - ATLETICO MADRID</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">JUVENTUS - BENFICA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">TENERIFE - NYMBURK</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FERENCVAROS - PODRAVKA</title>
+  </programme>
+  <programme start="20260123023000 +0100" stop="20260123033000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SPORT BEZ GRANICA EP.40</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WEIHAI M I Ž</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">HRVATSKA - GRČKA</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ZUG - LUKKO</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G5</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PARIS</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">CHICAGO - LOS ANGELES</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ESTUDIANTES - PLATENSE</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">NFL GAMEDAY</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FENERBAHCE - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ROMA - STUTTGART</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ULTIMATE RUSH S03E14</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BREST - IKAST</title>
+  </programme>
+  <programme start="20260123023000 +0100" stop="20260123033000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SPORT BEZ GRANICA EP.40</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WEIHAI M</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">HRVATSKA - RUMUNJSKA</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ILVES - LULEA</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G5</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">STOCKHOLM</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PLAYOFF GAME 1</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">METALOGLOBUS - ARGES</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SAŽETAK 7. KOLA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">MI ŽIVIMO ZA NOGOMET EP.103</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">NAJAVA FRANCUSKE LIGE</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">AUXERRE - PSG</title>
+  </programme>
+  <programme start="20260123220000 +0100" stop="20260123230000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">EXPLORERS EP11</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">INTER - PISA</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FERENCVAROS - PODRAVKA</title>
+  </programme>
+  <programme start="20260123023000 +0100" stop="20260123033000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SPORT BEZ GRANICA EP.41</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">KARLOVY VARY M</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FINALE M I Ž</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FROLUNDA - BRYNAS</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G6</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">NFL GAMEDAY</title>
+  </programme>
+  <programme start="20260123113000 +0100" stop="20260123123000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">NAJAVA TALIJANSKE LIGE</title>
+  </programme>
+  <programme start="20260123123000 +0100" stop="20260123133000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123133000 +0100" stop="20260123143000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ARENA SPECIJAL EP.101</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">CSKA - ZENIT</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">TERTNES - LOKOMOTIVA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PODRAVKA - CSM BUCUREST</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">REIMS - ST ETIENNE</title>
+  </programme>
+  <programme start="20260123220000 +0100" stop="20260123230000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BOSTON</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">PODRAVKA - CSM - BUCUREST</title>
+  </programme>
+  <programme start="20260123013000 +0100" stop="20260123023000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">TERTNES - LOKOMOTIVA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">KARLOVY VARY Ž</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">UTAKMICA ZA 3.MJESTO Ž</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">FROLUNDA - INGOLSTADT</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">WORLD SERIES G7</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ZURICH</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">EXPLORERS 05 FAT BIKING THE WILDERNESS</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">ESBJERG - SCHAEFFLER</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">BUDUĆNOST - METZ</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">JUVENTUS - NAPOLI</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">SIDELINE</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.02">
+    <title lang="hr">AFC CHAMPIONSHIP GAME</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">OSASUNA - OVIEDO</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ANGERS - MARSEILLE</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">TOTTENHAM - WEST HAM</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BOLOGNA - FIORENTINA</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 13</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 14</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SPARTAK M - DINAMO M</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">REAL MADRID - LEVANTE</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SAŽETAK 26.11.</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">NOTTINGHAM -ARSENAL</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LENS - AUXERRE</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">CAGLIARI - JUVENTUS</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BRIGHTON - BOURNEMOUTH</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">REAL SOCIEDAD - BARCELONA</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LYON - BREST</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">MANCHESTER UNITED - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">TORINO - ROMA</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ROSTOV - RUBIN</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">OSASUNA - OVIEDO</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SAŽETAK 09.12.</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">TOTTENHAM - WEST HAM</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PRIMORJE - BORAC</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">EXPLORERS 16 NORTH OF KNOWN</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">TOTTENHAM - BORUSSIA DORTMUND</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ATLETICO MADRID - ALAVES</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PSG - LILLE</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BRIGHTON - BOURNEMOUTH</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LAZIO - COMO</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 11</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 12</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BALTIKA - SAMARA</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">REAL SOCIEDAD - BARCELONA</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SAŽETAK 10.12.</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">MANCHESTER UNITED - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LYON - BREST</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.03">
+    <title lang="hr">QARABAG - EINTRACHT</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">NEWCASTLE - PSV</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA LUKA MODRIĆ 1.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">REAL MADRID - LEVANTE</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">MONACO - LORIENT</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">CHELSEA - BRENTFORD</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">CAGLIARI - JUVENTUS</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 2</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 3</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">KRASNODAR - CSKA</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ATLETICO MADRID - ALAVES</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SAŽETAK 20.01.</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BRIGHTON - BOURENMOUTH</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PSG - LILLE</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BOLOGNA - CELTIC</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BRAGA - NOTTINGHAM</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA LUKA MODRIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BETIS - VILLARREAL</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LENS - AUXERRE</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">NOTTINGHAM -ARSENAL</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">MILAN - LECCE</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 25</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST EP. 26</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SOCHI - LOKOMOTIV M</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ELCHE - SEVILLA</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SAŽETAK 21.01.</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">CHELSEA - BRENTFORD</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">MONACO - LORIENT</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BETIS - VILLARREAL</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">DERBY - WBA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA LUKA MODRIĆ 3.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">OSASUNA - OVIEDO</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">STRASBOURG - METZ</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LIVERPOOL - BURNLEY</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PARMA - GENOA</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">DYNAMO MAKH. - PARI NN</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">LEVANTE - ELCHE</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">RAYO VALLECANO - OSASUNA</title>
+  </programme>
+  <programme start="20260123161500 +0100" stop="20260123171500 +0100" channel="tvarena.hr.03">
+    <title lang="hr">VALENCIA - ESPANYOL</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SEVILLA - ATHLETIC BILBAO</title>
+  </programme>
+  <programme start="20260123203000 +0100" stop="20260123213000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.45</title>
+  </programme>
+  <programme start="20260123210500 +0100" stop="20260123220500 +0100" channel="tvarena.hr.03">
+    <title lang="hr">MARSEILLE - LENS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 1.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">VALENCIA - ESPANYOL</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">PREGLED KOLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">AUXERRE - PSG</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">WEST HAM - SUNDERLAND</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">COMO - TORINO</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SHORTLIST</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ZENIT - AKRON</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">VILLAREAL - REAL MADRID</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ATLETICO MADRID - MALLORCA</title>
+  </programme>
+  <programme start="20260123161500 +0100" stop="20260123171500 +0100" channel="tvarena.hr.03">
+    <title lang="hr">BARCELONA - OVIEDO</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">REAL SOCIEDAD - CELTA</title>
+  </programme>
+  <programme start="20260123203000 +0100" stop="20260123213000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">SPORT BEZ GRANICA EP.44</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">ALAVES - BETIS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.03">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CLUJ - DUBAI</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LEIPZIG - MAGDEBURG</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LEGIA - PIAST</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LET THEM WEAR TOWELS</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: ITA - EXYU</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 1</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LEEDS - FULHAM</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ATALANTA - CHELSEA</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">EXPLORERS EP16</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BREST - IKAST</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KORONA - WISLA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">VAN KADRA EP.21</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CREMONESE - VERONA</title>
+  </programme>
+  <programme start="20260123204500 +0100" stop="20260123214500 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LAZIO - COMO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">NOVI BEOGRAD - JADRAN ST</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CEDEVITA - BUDUĆNOST</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BOCHUM - STUTTGART</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KORONA - WISLA</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KENNY</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: ENG/BRA</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 2</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">NOTTINGHAM - ARSENAL</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CLUB BRUGGE - ARSENAL</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">EXPLORERS EP17</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">FERENCVAROS - PODRAVKA</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">RAKOW - ZAGLEBIE</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">RYTAS - HAPOEL</title>
+  </programme>
+  <programme start="20260123203000 +0100" stop="20260123213000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ARENA SPECIJAL 99</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">TENERIFE - NYMBURK</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">RADNIČKI - MLADOST</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BORAC - SPLIT</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BORUSSIA M - ST PAULI</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KORONA - WISLA</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">SEPP BLATTER</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: ENG/ŠKO</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 3</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">TOTTENHAM - WEST HAM</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">INTER - ARSENAL</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">EXPLORERS EP18</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BUDUĆNOST - BVB DORTMUND</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LEGIA - PIAST</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">GALATASARAY - LE MANS</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ULTIMATE RUSH S03E13</title>
+  </programme>
+  <programme start="20260123203000 +0100" stop="20260123213000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">JUVENTUT  - CHALON</title>
+  </programme>
+  <programme start="20260123223000 +0100" stop="20260123233000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">PL STORIES EP. 172</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">PRIMORAC - ORADEA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZADAR - CRVENA ZVEZDA</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KAISERSLAUTERN - BAYER L.</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ARKA - MOTOR</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LET THEM WEAR TOWELLS</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: ČEŠ/SLO</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 4</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MANCHESTER UNITED - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">TOTTENHAM - BORUSSIA D</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">EXPLORERS EP19</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CSM BUCUREST - KRIM</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KORONA - WISLA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MAGAZIN EUROPA LIGE</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MALMO - CRVENA ZVEZDA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CELTA - LILLE</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">JADRAN HN - PRO RECCO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">IGOKEA - PARTIZAN</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">HEIDENHEIM - HSV</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">RAKOW - ZAGLEBIE</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">KENNY</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: ENG/ŠKO</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 5</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BRIGHTON - BOURNEMOUTH</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">JUVENTUS - BENFICA</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">EXPLORERS EP20</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LOKOMOTIVA - RAPID B</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ARKA - MOTOR</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">DINAMO - FCSB</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ULTIMATE RUSH S03E15</title>
+  </programme>
+  <programme start="20260123204500 +0100" stop="20260123214500 +0100" channel="tvarena.hr.04">
+    <title lang="hr">INTER - PISA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">NOVI BEOGRAD - JADRAN ST</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZADAR - CEDEVITA</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BORUSSIA D - BAYER LEVERKUSEN</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MOTOR - JAGIELLONIA</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ANGRY SKY</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: POR/ŠPA</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 7</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">CHELSEA - BRENTFORD</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">REAL MADRID - MONACO</title>
+  </programme>
+  <programme start="20260123133000 +0100" stop="20260123143000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MILLWALL - CHARLTON</title>
+  </programme>
+  <programme start="20260123153000 +0100" stop="20260123163000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">PL STORIES EP. 172</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">FULHAM - BRIGHTON</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">FIORENTINA - CAGLIARI</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ULTIMATE RUSH S02E15</title>
+  </programme>
+  <programme start="20260123204500 +0100" stop="20260123214500 +0100" channel="tvarena.hr.04">
+    <title lang="hr">LECCE - LAZIO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">RADNIČKI - MLADOST</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ILIRIJA - MEGA</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">UNION BERLIN - BAYERN</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">RAKOW - ZAGLEBIE</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">DIPLOMAT</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MNR: ARG/BRA</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ZAGREB DAN 8</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BOURNEMOTH - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123123000 +0100" stop="20260123133000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">VAN KADRA EP.22</title>
+  </programme>
+  <programme start="20260123130000 +0100" stop="20260123140000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123143000 +0100" stop="20260123153000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">MI ŽIVIMO ZA KOŠARKU EP.66</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">ATALANTA - PARMA</title>
+  </programme>
+  <programme start="20260123171500 +0100" stop="20260123181500 +0100" channel="tvarena.hr.04">
+    <title lang="hr">METZ - LYON</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">TORONTO - COLORADO</title>
+  </programme>
+  <programme start="20260123223000 +0100" stop="20260123233000 +0100" channel="tvarena.hr.04">
+    <title lang="hr">BOCA JUNIORS - DEP. RIESTRA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">DETROIT - OTTAWA</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">STOCKHOLM</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">PETROLUL - UNIV. CRAIOVA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">ELCHE - SEVILLA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">DINAMO B - U. CLUJ</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">COLORADO - WASHINGTON</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">EUGENE</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">REAL MADRID - BARCELONA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">MULTIPRIJENOS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">PETROLUL - UNIV. CRAIOVA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">CAROLINA - BUFFALO</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">EXPLORERS 05 FAT BIKING THE WILDERNESS</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">TFT SKOPJE - SLOBODA</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">(NE)USPJEH PRVAKA ZLATAN IBRAHIMOVIĆ 2.DIO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">MULTIPRIJENOS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">CFR CLUJ - OTELUL</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">DALLAS - TAMPA BAY</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">RABAT</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.05">
+    <title lang="hr">PAOK - BETIS</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">SALZBURG - BASEL</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">ARGES - FCSB</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">BUFFALO - MINNESOTA</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">XIAMEN</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">BORUSSIA D - BAYER LEVERKUSEN</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">CORINTHIANS - SAO PAULO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">METALOGLOBUS - ARGES</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">COMO - TORINO</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">RENNES - LORIENT</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">LE HAVRE - MONACO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">BARRACAS - RIVER PLATE</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">U. CLUJ - UNIREA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">CRYSTAL PALACE - CHELSEA</title>
+  </programme>
+  <programme start="20260123171500 +0100" stop="20260123181500 +0100" channel="tvarena.hr.05">
+    <title lang="hr">BREST - TOULOUSE</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">S03E19</title>
+  </programme>
+  <programme start="20260123204500 +0100" stop="20260123214500 +0100" channel="tvarena.hr.05">
+    <title lang="hr">LILLE - STRASBOURG</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.05">
+    <title lang="hr">FCSB - CFR CLUJ</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">MONACO - LORIENT</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">MILAN - LECCE</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">CAROLINA - BUFFALO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">ROSTOV - RUBIN</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">LENS - AUXERRE</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">PISA - ATALANTA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">ATLETICO MADRID - ALAVES</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">OLYMPIACOS - BAYER LEVERKUSEN</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">ZENIT - AKRON</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">ANGERS - MARSEILLE</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">TORINO - ROMA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">REAL MADRID - LEVANTE</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">BAYERN - UNION SG</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">SOCHI - LOKOMOTIV M</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">LYON - BREST</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">LAZIO - COMO</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.06">
+    <title lang="hr">YOUNG BOYS - LYON</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">FERENCVAROS - PANATHINAIKOS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">SOCHI - LOKOMOTIV M</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">PSG - LILLE</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">CAGLIARI - JUVENTUS</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">REAL SOCIEDAD - BARCELONA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">FROLUNDA - BRYNAS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">KRASNODAR - CSKA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">SPARTAK M - DINAMO M</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">GUINGAMP - TROYES</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">BURNLEY - TOTTENHAM</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">SIDELINE</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NY ISLANDERS - BUFFALO</title>
+  </programme>
+  <programme start="20260123213000 +0100" stop="20260123223000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NASHVILLE - UTAH</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">NANTES - NICE</title>
+  </programme>
+  <programme start="20260123171500 +0100" stop="20260123181500 +0100" channel="tvarena.hr.06">
+    <title lang="hr">PARIS FC - ANGERS</title>
+  </programme>
+  <programme start="20260123193000 +0100" stop="20260123203000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">PARTIZAN - IGOKEA</title>
+  </programme>
+  <programme start="20260123220000 +0100" stop="20260123230000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">SIMPSON - ZUCCO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.06">
+    <title lang="hr">KRASNODAR - CSKA</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BORUSSIA D - BODO GLIMT</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAINZ - SAMSUNSPOR</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 22.10.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">STURM - CRVENA ZVEZDA</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB ARSENAL</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">5. KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">DINAMO - FENERBAHCE</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 05.11</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ZRINJSKI - RAPID</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">REAL MADRID - MANCHESTER CITY</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">YOUNG BOYS - LILLE</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SHAKHTAR - RIJEKA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">CLUB BRUGGE - ARSENAL</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">YOUNG BOYS - LILLE</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BAYER LEVERKUSEN - NEWCASTLE</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FIORENTINA - DYNAMO KIEV</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 04.11.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB AJAX</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">6.KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MACCABI - DINAMO</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 25.11</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">RAKOW - ZRINJSKI</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">INTER - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">CELTA - BOLOGNA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">VILLARREAL - AJAX</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ATALANTA - CHELSEA</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">CELTA - BOLOGNA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">REAL MADRID - MONACO</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">RIJEKA - CELJE</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 05.11.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">YOUNG BOYS - LILLE</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB REAL MADRID</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">1. KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MALMO - DINAMO</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 26.11</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FIORENTINA - DYNAMO KIEV</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SPORTING - PSG</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SLAVIA PRAG - BARCELONA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">VILLARREAL - AJAX</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">STURM - CRVENA ZVEZDA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">INTER - ARSENAL</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">RAKOW - ZRINJSKI</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 26.11.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">CELTA - BOLOGNA</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB - ARSENAL</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">2. KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">DINAMO - CELTA</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 09.12</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">RIJEKA - CELJE</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MARSEILLE - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.07">
+    <title lang="hr">PLZEN - PORTO</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAINZ - SAMSUNSPOR</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">JUVENTUS - BENFICA</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">DINAMO - FCSB</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">TOTTENHAM - BORUSSIA D</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FIORENTINA - DYNAMO KIEV</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 27.11.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FENERBAHCE - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB LIVERPOOL</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">3.KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">DINAMO - FCSB</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 10.12</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">RAKOW - ZRINJSKI</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">INTER - ARSENAL</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ROMA - STUTTGART</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ZRINJSKI - RAPID</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MARSEILLE - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">YOUNG - BOYS - LYON</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GALATASARAY - ATLETICO MADRID</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SHAKHTAR - RIJEKA</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 09.12.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">CELTA - LILLE</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB BAYERN M.</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">4.KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">DINAMO - BETIS</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 20.01.</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">RAKOW - ZRINJSKI</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BORAC - KRKA</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ILIRIJA - MEGA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BUDUĆNOST - BOSNA</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">INTER - ARSENAL</title>
+  </programme>
+  <programme start="20260123010000 +0100" stop="20260123020000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FENERBAHCE - ASTON VILLA</title>
+  </programme>
+  <programme start="20260123030000 +0100" stop="20260123040000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MARSEILLE - LIVERPOOL</title>
+  </programme>
+  <programme start="20260123050000 +0100" stop="20260123060000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ZRINJSKI - RAPID</title>
+  </programme>
+  <programme start="20260123070000 +0100" stop="20260123080000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 10.12.</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">ROMA - STUTTGART</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">MAGAZIN LIGE PRVAKA</title>
+  </programme>
+  <programme start="20260123103000 +0100" stop="20260123113000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">GREATEST CLUB MANCHESTER UNITED</title>
+  </programme>
+  <programme start="20260123110000 +0100" stop="20260123120000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">5.KOLO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">DINAMO - FCSB</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">SAŽETAK 21.01</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">BRENTFORD - NOTTINGHAM</title>
+  </programme>
+  <programme start="20260123170000 +0100" stop="20260123180000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">TOTTENHAM - BORUSSIA D</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FCSB - CFR CLUJ</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">FIORENTINA - DYNAMO KIEV</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.07">
+    <title lang="hr">REAL MADRID - MONACO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">LIMA - KOOPMAN</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">IND DELLA VALLE - ATLETICO MG</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G1</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SAN FRANCISCO - CHICAGO</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.38</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.33</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">DALLAS - TAMPA BAY</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">KARDITSAS - SPARTAK</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF G3</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">LITVA - ITALIJA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">RACING - FLAMENGO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ANGRY SKY</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ISLEY - WILLIAM</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">FINALE</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G2</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ATLANTA - LA RAMS</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.39</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.34</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">DETROIT - OTTAWA</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">LEVICE - WURZBURG</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ATLANTA - LA RAMS</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">IZRAEL - HRVATSKA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">COPENHAGEN - NAPOLI</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WHITE, BLUE AND WHITE</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SIMPSON - ZUCCO</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">LANUS - U DE CHILE</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G7</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SAN FRANCISCO - SEATTLE</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.40</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.35</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">COLORADO - WASHINGTON</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">RYTAS - HAPOEL</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G1</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF GAME 4</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">HRVATSKA - CIPAR</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">CHELSEA - PAFOS</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TOMMY</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PACQUIAO - BARRIOS</title>
+  </programme>
+  <programme start="20260123023000 +0100" stop="20260123033000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ATLETICO MG - IND DELA VALLE</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G4</title>
+  </programme>
+  <programme start="20260123080000 +0100" stop="20260123090000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">DIPLOMAT</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.41</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.36</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">CAROLINA - BUFFALO</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">LE MANS - MERSIN</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G2</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">CHICAGO - LOS ANGELES</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.08">
+    <title lang="hr">FREIBURG - MACCABI TEL AVIV</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">FINALE</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">9.79</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">MALAJIKA - MAMA</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">FINALE</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G5</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.42</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.37</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">COLORADO - WASHINGTON</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123190000 +0100" stop="20260123200000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ŠVEDSKA - SLOVENIJA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PALMEIRAS - LDU QUITO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ANGRY SKY</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PACQUIAO - BARRIOS</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">U DE CHILE - LANUS</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G6</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.43</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.38</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">BUFFALO - MINNESOTA</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">FERENCVAROS - KRIM LJUBLJANA</title>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123190000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">BREST - ODENSE</title>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123210000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">INOUE - AKHMADALIEV</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PALMEIRAS - LDU QUITO</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">DIPLOMAT</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">MBILI - SULECKI</title>
+  </programme>
+  <programme start="20260123020000 +0100" stop="20260123030000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ATLETICO MG - BOLIVAR</title>
+  </programme>
+  <programme start="20260123040000 +0100" stop="20260123050000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WORLD SERIES G7</title>
+  </programme>
+  <programme start="20260123060000 +0100" stop="20260123070000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">WILDCARD GAME 1</title>
+  </programme>
+  <programme start="20260123090000 +0100" stop="20260123100000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">ONE ŽIVE ZA NOGOMET EP.44</title>
+  </programme>
+  <programme start="20260123093000 +0100" stop="20260123103000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">SPORT BEZ GRANICA EP.39</title>
+  </programme>
+  <programme start="20260123100000 +0100" stop="20260123110000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">NASHVILLE - UTAH</title>
+  </programme>
+  <programme start="20260123120000 +0100" stop="20260123130000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123140000 +0100" stop="20260123150000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">PLAYOFF</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123183000 +0100" stop="20260123193000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">TBD</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">FINALE</title>
+  </programme>
+  <programme start="20260123230000 +0100" stop="20260124000000 +0100" channel="tvarena.hr.08">
+    <title lang="hr">KENNY</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">SPORTING - PSG</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123210000 +0100" stop="20260123220000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">ATALANTA - ATHLETIC BILBAO</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123184500 +0100" stop="20260123194500 +0100" channel="tvarena.hr.09">
+    <title lang="hr">BRANN - MIDTYLLAND</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123160000 +0100" stop="20260123170000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">HULL - SWANSEA</title>
+  </programme>
+  <programme start="20260123000000 +0100" stop="20260123010000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+  </programme>
+  <programme start="20260123150000 +0100" stop="20260123160000 +0100" channel="tvarena.hr.09">
+    <title lang="hr">GENOA - BOLOGNA</title>
+  </programme>
 </tv>
